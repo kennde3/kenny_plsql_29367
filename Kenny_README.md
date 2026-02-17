@@ -52,7 +52,7 @@ The process involved creating the PDB from Oracle's seed template, opening it, a
 
 **User confirmed with query:**
 
-![User Verified](screenshots/task1_user_verified.png)
+![User Verified](https://github.com/kennde3/kenny_plsql_29367/blob/main/Screenshots/task1_user_verified.png)
 
 ---
 
