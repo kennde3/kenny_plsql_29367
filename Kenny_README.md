@@ -44,7 +44,7 @@ The process involved creating the PDB from Oracle's seed template, opening it, a
 
 **PDB opened and running:**
 
-![PDB Open]()
+![PDB Open](https://github.com/kennde3/kenny_plsql_29367/blob/main/Screenshots/task1_pdb_open.png)
 
 **User created inside the PDB:**
 
