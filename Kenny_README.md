@@ -48,7 +48,7 @@ The process involved creating the PDB from Oracle's seed template, opening it, a
 
 **User created inside the PDB:**
 
-![User Created](screenshots/task1_user_created.png)
+![User Created](https://github.com/kennde3/kenny_plsql_29367/blob/main/Screenshots/task1_user_created.png)
 
 **User confirmed with query:**
 
