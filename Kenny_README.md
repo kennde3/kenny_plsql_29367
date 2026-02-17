@@ -88,7 +88,7 @@ I configured and accessed Oracle Enterprise Manager (OEM) through the browser. T
 
 **OEM Dashboard:**
 
-![OEM Dashboard](screenshots/task3_oem_dashboard.png)
+![OEM Dashboard](https://github.com/kennde3/kenny_plsql_29367/blob/main/Screenshots/task3_oem_dashboard.png)
 
 ---
 
