@@ -74,7 +74,7 @@ I created the PDB, verified it appeared in the database list, closed it, dropped
 
 **Dropped completely:**
 
-![Temp PDB Dropped](screenshots/task2_temp_dropped.png)
+![Temp PDB Dropped](https://github.com/kennde3/kenny_plsql_29367/blob/main/Screenshots/task2_temp_dropped.png)
 
 **Confirmed no longer exists:**
 
