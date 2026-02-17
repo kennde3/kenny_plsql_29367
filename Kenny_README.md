@@ -70,7 +70,7 @@ I created the PDB, verified it appeared in the database list, closed it, dropped
 
 **Verified it exists:**
 
-![Temp PDB Verified](screenshots/task2_temp_verified.png)
+![Temp PDB Verified](https://github.com/kennde3/kenny_plsql_29367/blob/main/Screenshots/task2_temp_verified.png)
 
 **Dropped completely:**
 
