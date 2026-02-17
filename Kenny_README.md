@@ -40,7 +40,7 @@ The process involved creating the PDB from Oracle's seed template, opening it, a
 
 **PDB successfully created:**
 
-![PDB Creation](screenshots/task1_pdb_creation.png)
+![PDB Creation]()
 
 **PDB opened and running:**
 
