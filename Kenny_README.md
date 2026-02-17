@@ -66,7 +66,7 @@ I created the PDB, verified it appeared in the database list, closed it, dropped
 
 **Temporary PDB created:**
 
-![Temp PDB Created](screenshots/task2_temp_created.png)
+![Temp PDB Created](https://github.com/kennde3/kenny_plsql_29367/blob/main/Screenshots/task2_temp_created.png)
 
 **Verified it exists:**
 
