@@ -40,11 +40,11 @@ The process involved creating the PDB from Oracle's seed template, opening it, a
 
 **PDB successfully created:**
 
-![PDB Creation]()
+![PDB Creation](https://github.com/kennde3/kenny_plsql_29367/blob/main/Screenshots/task1_pdb_creation.png)
 
 **PDB opened and running:**
 
-![PDB Open](screenshots/task1_pdb_open.png)
+![PDB Open]()
 
 **User created inside the PDB:**
 
